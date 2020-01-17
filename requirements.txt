@@ -1,0 +1,9 @@
+flask
+gevent
+h5py
+keras==2.2.5
+numpy
+pillow
+requests
+tensorflow==1.14
+werkzeug
