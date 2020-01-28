@@ -5,5 +5,5 @@ keras==2.2.5
 numpy
 pillow
 requests
-tensorflow==1.14
+tensorflow==1.15.2
 werkzeug
