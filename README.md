@@ -1,4 +1,4 @@
-# Looking, But For Driods
+# Looking For Driods
 
 This application identifies whether an image is one of C-3PO or R2D2.
 
